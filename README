@@ -1,0 +1,9 @@
+Team is a simple project tracking tool for managing an off-shore team.  It includes the following features:
+* tasks
+* tasks with comments
+* online web-based chat
+* MongoDB on the backend (team-redis was the start of the same thing using Redis)
+* all code and layouts in a single file
+* status messages
+* the ability to prioritize tasks/items by moving them up and down
+
